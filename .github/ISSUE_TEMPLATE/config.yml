@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 社区讨论 / Community Discussions
+    url: https://github.com/Flysoft1337/RoamHub_Feedback/discussions
+    about: 加入社区讨论，分享想法和经验 / Join community discussions to share ideas and experiences
+  - name: 📖 文档 / Documentation
+    url: https://github.com/Flysoft1337/RoamHub_Feedback
+    about: 查看 RoamHub 相关文档 / View RoamHub documentation
