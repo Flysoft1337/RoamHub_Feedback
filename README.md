@@ -12,7 +12,7 @@
 
 ### 关于 RoamHub
 
-RoamHub 是一个专为 Roblox 游戏玩家和开发者设计的工具平台，提供游戏脚本、工具和实用功能，旨在提升您的游戏体验。
+RoamHub 是一个基于 Jetpack Compose 的社区客户端，采用现代化的 Android 开发技术，为用户提供流畅、优雅的社区交流体验。
 
 ### 如何提交反馈
 
@@ -61,7 +61,7 @@ This is the official feedback repository for the RoamHub community. We welcome a
 
 ### About RoamHub
 
-RoamHub is a tool platform designed for Roblox game players and developers, providing game scripts, tools, and practical features aimed at enhancing your gaming experience.
+RoamHub is a community client based on Jetpack Compose, utilizing modern Android development technology to provide users with a smooth and elegant community interaction experience.
 
 ### How to Submit Feedback
 
