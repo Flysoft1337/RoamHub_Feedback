@@ -30,10 +30,8 @@ assignees: ''
 
 ## 环境信息 / Environment
 <!-- 请填写以下信息 / Please complete the following information -->
-- **操作系统 / OS**: [例如 / e.g., Windows 11, macOS 13]
-- **浏览器 / Browser**: [例如 / e.g., Chrome 120, Firefox 121]
+- **操作系统 / OS**: [例如 / e.g., Android 16, RealmeUI 16]
 - **RoamHub 版本 / Version**: [例如 / e.g., v1.0.0]
-- **Roblox 版本 / Roblox Version**: [如适用 / if applicable]
 
 ## 附加信息 / Additional Context
 <!-- 添加任何其他相关的信息 / Add any other context about the problem here -->
